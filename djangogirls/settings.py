@@ -25,7 +25,7 @@ SECRET_KEY = 'yz_vnsqgbihx839g1swl)$h$y7)wp23x%^)kd+6!l4xv62xx%3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'trainor1.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'trainor1.pythonanywhere.com', 'trainork.pythonanywhere.com']
 
 
 # Application definition
